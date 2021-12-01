@@ -11,5 +11,5 @@ Hi, I'm razewerz
 </p>
 <samp>
 <p align="center">
-<a href="https://discord.gg/N8whsrVG3b">Discord Server</a> | <a href="instagram.com/63code">Instagram</a> | <a href="twitter.com/razewerz">Twitter</a>
+<a href="https://discord.gg/N8whsrVG3b">Discord Server</a> | <a href="instagram.com/96code">Instagram</a> | <a href="twitter.com/razewerz">Twitter</a>
 </p>
