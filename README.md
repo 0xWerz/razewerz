@@ -11,5 +11,5 @@
 </table>
 </p>
 
-<a href="https://discord.gg/N8whsrVG3b">Discord Server</a> | <a href="https://www.instagram.com/0x1e9/">Instagram</a> | <a href="https://twitter.com/cyberwerz">Twitter</a>
+<a href="https://discord.gg/n6G62mEdR3">Discord Server</a> | <a href="https://www.instagram.com/0x1e9/">Instagram</a> | <a href="https://twitter.com/cyberwerz">Twitter</a>
 </p>
