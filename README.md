@@ -1,6 +1,12 @@
-<p align="center">
-  Visitor count <br></br>
-  <img src="https://profile-counter.glitch.me/0xwerz7/count.svg" /
+ <body>
+      <h1 style="text-align:center">Welcome to Werz's Github page!<h1>
+      <p></p>
+   </body>
+   
+  <p align="center"> 
+  <b>Visitor count </b><br>
+  <img src="https://profile-counter.glitch.me/Yuma-Tsushima07/count.svg" /
+       </p>
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
