@@ -5,7 +5,7 @@
    
   <p align="center"> 
   <b>Visitor count </b><br>
-  <img src="https://profile-counter.glitch.me/Yuma-Tsushima07/count.svg" /
+  <img src="https://profile-counter.glitch.me/0xwerz/count.svg" /
        </p>
 <table>
   <tr>
