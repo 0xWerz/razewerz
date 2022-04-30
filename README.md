@@ -1,6 +1,6 @@
 <p align="center">
-  Visitor count
-  https://profile-counter.glitch.me/0xwerz7/count.svg
+  Visitor count <br></br>
+  <img src="https://profile-counter.glitch.me/0xwerz7/count.svg" /
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
