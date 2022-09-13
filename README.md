@@ -1,12 +1,47 @@
- <body>
-      <h1 style="text-align:center">Welcome to Werz's Github page!<h1>
-      <p></p>
-   </body>
-   
-  <p align="center"> 
+
+
+<p align="center"> 
   <b>Visitor count </b><br>
-  <img src="https://profile-counter.glitch.me/0xwerz/count.svg" /
+  <img src="https://profile-counter.glitch.me/0xwerz/count.svg" />
        </p>
+
+      
+
+      
+## ./whoami
+
+Hi I am Werz, a cyber security student, full-stack developer. Also intrested in fx/amv
+![image](./assets/htb-banner.png)
+
+
+<details>
+  <summary><b>Discord</b></summary>
+  
+  <a href="https://discordapp.com/users/529705298802245633">
+<img height="80px" src="https://discord.c99.nl/widget/theme-3/529705298802245633.png">
+  </a>
+<br></br>
+    </details>
+
+<details>
+  <summary><b>HackTheBox</b></summary>
+
+  <a href="https://app.hackthebox.eu/profile/716133">
+<img src="https://www.hackthebox.com/badge/image/716133" alt="Hack The Box">
+  </a>
+  <br></br>
+  </details>
+  
+  <details>
+  <summary><b>TryHackMe</b></summary>
+
+  <a href="https://tryhackme.com/p/razewerz">
+<img src="https://tryhackme-badges.s3.amazonaws.com/razewerz.png" alt="TryHackMe">
+  </a>
+  <br></br>
+  </details>
+
+
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
