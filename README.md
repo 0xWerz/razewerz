@@ -61,7 +61,7 @@ ff
   <details>
   <summary><b>TryHackMe</b></summary>
 
-  <a href="https://tryhackme.com/p/razewerz">
+  <a href="https://tryhackme.com/p/0xwerz">
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xwerz.png" alt="TryHackMe">
   </a>
   <br></br>
