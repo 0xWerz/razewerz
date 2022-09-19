@@ -44,7 +44,6 @@ Hi I am Werz, a cyber security student, full-stack developer. Also intrested in 
   <summary><b>Discord profile</b></summary>
   <a href="https://discordapp.com/users/529705298802245633">
 <img height="80px" src="https://discord.c99.nl/widget/theme-3/529705298802245633.png">
-ff
   </a>
 <br></br>
     </details>
