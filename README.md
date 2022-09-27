@@ -28,8 +28,7 @@ Hi I am Werz, a cyber security student, full-stack developer. Also intrested in 
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/n6G62mEdR3">Discord</a> | <a href="
-    ">Twitter</a>
+    <a href="https://discord.gg/n6G62mEdR3">Discord</a> | <a href="https://twitter.com/CyberWerz">Twitter</a>
 </p>
 
 
