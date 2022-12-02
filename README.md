@@ -1,31 +1,38 @@
 
+![soft](https://capsule-render.vercel.app/api?type=waving&fontAlignY=35&height=200&text=About%20Me&fontSize=30&color=gradient&customColorList=24&fontColor=purple)
 
-<p align="center"> 
-  <b>Visitor count </b><br>
-  <img src="https://profile-counter.glitch.me/0xwerz/count.svg" />
-       </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=7000&pause=1000&color=D4D4D4FF&center=true&vCenter=true&width=739&lines=CTF+player;Full-stack+developer;electronics%2Frobotics+enthusiast;Graphic+Designer" alt="Typing SVG" /></a>
 
-      
+<div align="center">
+Cyber security student, full-stack developer. Also intrested in fx/amv <br>
+Most of my projects are just for fun.
+</div>
 
-      
-## ./whoami
+<h3 align="center">Languages/Runtimes</h3>
+<div align="center" style="margin-top: 10px">
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,cpp,css,py,md,go,html&theme=dark" />
+</div>
 
-Hi I am Werz, a cyber security student, full-stack developer. Also intrested in fx/amv
-![image](./assets/htb-banner.png)
+<h3 align="center">Frameworks</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs&theme=dark" />
+</div>
 
+<h3 align="center">Tools</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,powershell,bash,git&theme=dark" />
+</div>
 
+<h3 align="center">Databases</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,redis,mongodb&theme=dark" />
+</div>
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=0xWerz&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xWerz&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-    </td>
-  </tr>
-</table>
-</p>
+<h3 align="center">Design</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ae,ps,figma,bootstrap,pr&theme=dark" />
+</div>
+
 
 <p align="center">
     <a href="https://discord.gg/n6G62mEdR3">Discord</a> | <a href="https://twitter.com/CyberWerz">Twitter</a>
@@ -39,7 +46,7 @@ Hi I am Werz, a cyber security student, full-stack developer. Also intrested in 
 </p>
 
 
-<details>
+<details align="center">
   <summary><b>Discord profile</b></summary>
   <a href="https://discordapp.com/users/529705298802245633">
 <img height="80px" src="https://discord.c99.nl/widget/theme-3/529705298802245633.png">
@@ -47,7 +54,7 @@ Hi I am Werz, a cyber security student, full-stack developer. Also intrested in 
 <br></br>
     </details>
 
-<details>
+<details align="center">
   <summary><b>HackTheBox</b></summary>
 
   <a href="https://app.hackthebox.eu/profile/716133">
@@ -56,7 +63,7 @@ Hi I am Werz, a cyber security student, full-stack developer. Also intrested in 
   <br></br>
   </details>
   
-  <details>
+  <details align="center">
   <summary><b>TryHackMe</b></summary>
 
   <a href="https://tryhackme.com/p/0xwerz">
