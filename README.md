@@ -1,7 +1,7 @@
 
 ![soft](https://capsule-render.vercel.app/api?type=waving&fontAlignY=35&height=200&text=About%20Me&fontSize=30&color=gradient&customColorList=24&fontColor=purple)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=7000&pause=1000&color=D4D4D4FF&center=true&vCenter=true&width=739&lines=CTF+player;Full-stack+developer;electronics%2Frobotics+enthusiast;Graphic+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=7000&pause=1000&color=D4D4D4FF&center=true&Center=true&width=900&lines=CTF+player;Full-stack+developer;electronics%2Frobotics+enthusiast;Graphic+Designer" alt="Typing SVG" /></a>
 
 <div align="center">
 Cyber security student, full-stack developer. Also intrested in fx/amv <br>
