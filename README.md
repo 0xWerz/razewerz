@@ -1,16 +1,15 @@
-
 ![soft](https://capsule-render.vercel.app/api?type=waving&fontAlignY=35&height=200&text=About%20Me&fontSize=30&color=gradient&customColorList=24&fontColor=purple)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=7000&pause=1000&color=D4D4D4FF&center=true&Center=true&width=900&lines=CTF+player;Full-stack+developer;electronics%2Frobotics+enthusiast;Graphic+Designer" alt="Typing SVG" /></a>
 
 <div align="center">
-Cyber security student, full-stack developer. Also intrested in fx/amv <br>
+full-stack developer and a cyber security student with an interest in fx/amv. <br>
 Most of my projects are just for fun.
 </div>
 
 <h3 align="center">Languages/Runtimes</h3>
 <div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,cpp,css,py,md,go,html&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,cpp,css,py,rust,md,go,html&theme=dark" />
 </div>
 
 <h3 align="center">Frameworks</h3>
@@ -33,18 +32,15 @@ Most of my projects are just for fun.
     <img src="https://skillicons.dev/icons?i=ae,ps,figma,bootstrap,pr&theme=dark" />
 </div>
 
-
 <p align="center">
     <a href="https://discord.gg/n6G62mEdR3">Discord</a> | <a href="https://twitter.com/CyberWerz">Twitter</a>
 </p>
-
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/werz" target="_blank">
     <img height="36" style="border:0px;height:36px;" src="https://f1feederseriesdotcom.files.wordpress.com/2021/09/bmc-button-1.png?w=240" border='0' alt='ko-fi' />
   </a>
 </p>
-
 
 <details align="center">
   <summary><b>Discord profile</b></summary>
@@ -71,4 +67,3 @@ Most of my projects are just for fun.
   </a>
   <br></br>
   </details>
-
